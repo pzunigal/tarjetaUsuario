@@ -1,7 +1,7 @@
 # Tarjeta de Usuario
 Proyecto para mostrar información de un usuario con un diseño simple y minimalista.
 
-![Portada del Proyecto](https://drive.google.com/file/d/1mzx4FDYa3_v6otbB1QG_Rat4AibBEb-e/view?usp=sharing)
+![Portada del Proyecto](https://pbs.twimg.com/media/GfOBrNBXsAAmy-x?format=jpg&name=small)
 
 ## Tecnologías
 - HTML
